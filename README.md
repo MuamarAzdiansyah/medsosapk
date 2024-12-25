@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Open Source Social Network [7.6]
 ======================================
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=102)](https://www.opensource-socialnetwork.org/)
@@ -118,3 +119,6 @@ http://demo.opensource-socialnetwork.org/
 UPGRADE
 ========
 https://www.opensource-socialnetwork.org/wiki/view/708/how-to-upgrade-ossn
+=======
+# medsosapk
+>>>>>>> 533cdba3930df6420f38b01b20d0e1f3199eaade
