@@ -1,0 +1,9 @@
+{
+    "version": "1.0",
+    "api_version": 1,
+    "layout": {
+        "logo": "https://forkum.educyberlab.online/favicons/yandex-browser-50x50.png?ver=1726108636",
+        "color": "background_color",
+        "show_title": true
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "version": "1.0",
+    "name": "JARINGAN KOMUNIKASI BADAN KEPEGAWAIAN NEGARA",
+    "description": "Ossn App",
+    "icons": {
+        "60": "https://forkum.educyberlab.online/favicons/firefox_app_60x60.png?ver=1726108636",
+        "128": "https://forkum.educyberlab.online/favicons/firefox_app_128x128.png?ver=1726108636",
+        "512": "https://forkum.educyberlab.online/favicons/firefox_app_512x512.png?ver=1726108636"
+    },
+    "developer": {
+        "name": "Opensource-Socialnetwork",
+        "url": "https://www.opensource-socialnetwork.org"
+    }
+}
